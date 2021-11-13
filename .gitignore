@@ -1,0 +1,7 @@
+dist/
+build/
+electron/*
+!electron/README.md
+package-lock.json
+*.spec
+__pycache__
